@@ -1,12 +1,12 @@
 import SubHeading from './SubHeading/SubHeading';
-import Newsletter from './Footer/Newsletter';
+import NewsLetter from './Footer/Newsletter';
 import FooterOverlay from './Footer/FooterOverlay';
-import MenuItem from './MenuItem/MenuItem';
-import Navbar from './Navbar/Navbar';
 
+import MenuItem from './Menuitem/MenuItem';
+import Navbar from './Navbar/Navbar.jsx';
 export {
   SubHeading,
-  Newsletter,
+  NewsLetter,
   FooterOverlay,
   MenuItem,
   Navbar,
