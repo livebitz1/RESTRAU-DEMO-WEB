@@ -1,10 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "postcss": "^8.5.6",
-    "postcss-safe-parser": "^7.0.1",
-    "react-scripts": "^5.0.1"
-=======
   "name": "gericht",
   "version": "0.1.0",
   "private": true,
@@ -49,6 +43,5 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0"
->>>>>>> 5dbbc9d (initial commit)
   }
 }
